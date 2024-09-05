@@ -8,7 +8,7 @@ Download my Resume [here](https://github.com/schwartztyler98/tschwartz.github.io
 
 # Who am I?
 
-My name is Tyler Schwartz, and I am an aspiring Cybersecurity professional. I am currently pursuing a bachalor's degree in _**Computer Science**_, with an focus in Cybersecurity.
+My name is Tyler Schwartz, and I am an aspiring Cybersecurity professional. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_.
 
 ## Header 2
 
