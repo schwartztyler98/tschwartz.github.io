@@ -6,11 +6,9 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/tyler-schwartz-3003a2196/).
 
 Download my Resume [here](https://github.com/schwartztyler98/tschwartz.github.io/blob/main/tschwartz_resume_August_2024.pdf).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Who am I?
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Tyler Schwartz, and I am an aspiring Cybersecurity professional. I am currently pursuing a bachalor's degree in _**Computer Science**_, with an focus in Cybersecurity.
 
 ## Header 2
 
