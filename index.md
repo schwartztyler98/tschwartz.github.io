@@ -14,10 +14,6 @@ My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. Currentl
 
 Within the next year, my goal is to transition into the Cybersecurity field, specifically within Governance, Risk and Compliance (GRC). I am preparing to take the **Security+** exam. Upon passing the exam, I will begin studying for the **Certified Information Systems Security Professional (CISSP)**.
 
- following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
 ##### Header 5
 
 1.  This is an ordered list following a header.
