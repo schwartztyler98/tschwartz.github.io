@@ -10,7 +10,7 @@ Download my [Resume](https://github.com/schwartztyler98/tschwartz.github.io/blob
 
 My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_. This page is an oppurtunity to track my progress, as well as display my current projects, goals and ideas. 
 
-
+    
 
 # What Am I Working On?
 
