@@ -4,11 +4,11 @@ layout: default
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/tyler-schwartz-3003a2196/).
 
-Download my Resume [here](https://github.com/schwartztyler98/tschwartz.github.io/blob/main/tschwartz_resume_August_2024.pdf).
+Download my [Resume](https://github.com/schwartztyler98/tschwartz.github.io/blob/main/tschwartz_resume_August_2024.pdf).
 
-# Who am I?
+# Greetings
 
-My name is Tyler Schwartz, and I am an aspiring Cybersecurity professional. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_.
+My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_. This page is an oppurtunity to track my progress, as well as display my current projects, goals and ideas. 
 
 ## Header 2
 
