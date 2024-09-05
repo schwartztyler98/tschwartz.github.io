@@ -3,6 +3,7 @@ layout: default
 ---
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/tyler-schwartz-3003a2196/).
+
 Download my Resume [here](https://github.com/schwartztyler98/tschwartz.github.io/blob/main/tschwartz_resume_August_2024.pdf).
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
