@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 Follow me on [LinkedIn](https://www.linkedin.com/in/tyler-schwartz-3003a2196/).
+Download my resume [here](https://github.com/schwartztyler98/tschwartz.github.io/blob/main/tschwartz_resume_August_2024.pdf).
 
 There should be whitespace between paragraphs.
 
