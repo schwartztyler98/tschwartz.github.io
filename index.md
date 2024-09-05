@@ -8,14 +8,11 @@ Download my [Resume](https://github.com/schwartztyler98/tschwartz.github.io/blob
 
 # Greetings
 
-My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_. This page is an oppurtunity to track my progress, as well as display my current projects, goals and ideas. 
+My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. Currently, I am an IT Technician for a school district, supporting roughly 4000 students and staff. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_. This page is an oppurtunity to track my progress, as well as display my current projects, goals and ideas. 
 
 # What Am I Working On?
 
-
-## Security+
-
-## CISSP
+Within the next year, my goal is to transition into the Cybersecurity field, specifically within Governance, Risk and Compliance (GRC). I am preparing to take the **Security+** exam. Upon passing the exam, I will begin studying for the **Certified Information Systems Security Professional (CISSP)**.
 
  following a header.
 *   This is an unordered list following a header.
