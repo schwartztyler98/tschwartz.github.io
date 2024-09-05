@@ -10,31 +10,14 @@ Download my [Resume](https://github.com/schwartztyler98/tschwartz.github.io/blob
 
 My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. I am currently pursuing a bachelor's degree in _**Computer Science**_, with an focus in _**Cybersecurity**_. This page is an oppurtunity to track my progress, as well as display my current projects, goals and ideas. 
 
-    
-
 # What Am I Working On?
 
 
-## Header 3
+## Security+
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## CISSP
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
+ following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
