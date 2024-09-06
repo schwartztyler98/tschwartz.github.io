@@ -17,11 +17,3 @@ My name is Tyler Schwartz, I am an aspiring Cybersecurity professional. Currentl
 # What Am I Working On?
 
 Within the next year, my goal is to transition into the Cybersecurity field, specifically within Governance, Risk and Compliance (GRC). I am preparing to take the **Security+** exam. Upon passing the exam, I will begin studying for the **Certified Information Systems Security Professional (CISSP)**.
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
